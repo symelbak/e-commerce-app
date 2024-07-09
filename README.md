@@ -22,7 +22,7 @@
 - **Technical Details:**
   - Developed using Django, a Python-based web framework
   - Utilizes Tailwind CSS for responsive and modern styling
-  - Integrates Sprite for payment processing and secure transactions
+  - Integrates Stripe for payment processing and secure transactions
   
 
 ## Pages
