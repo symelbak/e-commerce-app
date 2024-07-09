@@ -24,7 +24,6 @@
   - Utilizes Tailwind CSS for responsive and modern styling
   - Integrates Sprite for payment processing and secure transactions
   
-This web application is designed to provide a seamless e-commerce experience for both buyers and sellers while offering robust admin support for managing the platform.
 
 ## Pages
 
@@ -73,6 +72,6 @@ This web application is designed to provide a seamless e-commerce experience for
 - Checkout process with payment integration
 
 
-
+### This web application is designed to provide a seamless e-commerce experience for both buyers and sellers while offering robust admin support for managing the platform.
 
 
