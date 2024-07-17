@@ -1,4 +1,4 @@
-# E-Commerce Web Application 
+# ShopEase
 
 ## This project is an e-commerce web application built using Django and styled with Tailwind CSS. The website facilitates buying and selling products and includes several key functionalities.
 
